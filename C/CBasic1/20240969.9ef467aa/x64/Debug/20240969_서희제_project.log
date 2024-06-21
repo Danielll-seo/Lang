@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\HOSEO\Desktop\20240969_서희제\main.c(17,10): warning C4047: '함수': 'const char *const '의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\HOSEO\Desktop\20240969_서희제\main.c(17,10): warning C4024: 'printf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\HOSEO\Desktop\20240969_서희제\main.c(936,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HOSEO\Desktop\20240969_서희제\main.c(19,1): warning C4716: 'banbok': 값을 반환해야 합니다.
+  20240969_서희제_project.vcxproj -> C:\Users\HOSEO\Desktop\20240969_서희제\x64\Debug\20240969_서희제_project.exe

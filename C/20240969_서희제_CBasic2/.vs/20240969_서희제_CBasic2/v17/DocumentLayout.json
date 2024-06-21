@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOSEO\\Desktop\\20240969_\uC11C\uD76C\uC81C_CBasic2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33245ADD-BF2E-41C1-B9F0-D657306EC149}|20240969_\uC11C\uD76C\uC81C_CBasic2.vcxproj|C:\\Users\\HOSEO\\Desktop\\20240969_\uC11C\uD76C\uC81C_CBasic2\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33245ADD-BF2E-41C1-B9F0-D657306EC149}|20240969_\uC11C\uD76C\uC81C_CBasic2.vcxproj|solutionrelative:Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\Users\\HOSEO\\Desktop\\20240969_\uC11C\uD76C\uC81C_CBasic2\\Main.c",
+              "RelativeDocumentMoniker": "Main.c",
+              "ToolTip": "C:\\Users\\HOSEO\\Desktop\\20240969_\uC11C\uD76C\uC81C_CBasic2\\Main.c",
+              "RelativeToolTip": "Main.c",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAAABgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-20T05:16:07.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

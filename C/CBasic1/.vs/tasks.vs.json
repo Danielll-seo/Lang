@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-20240969_\uC11C\uD76C\uC81C",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
