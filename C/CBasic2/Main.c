@@ -5,6 +5,8 @@
 #include <time.h>
 #include <ctype.h>
 
+// C언어 어렵다:(
+
 /*int add(int n); // 함수 호출
 void call_1(int m); // 함수 호출
 void call_2(int o); // 함수 호출
